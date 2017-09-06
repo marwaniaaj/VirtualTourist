@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PhotoAlbumViewController.updateView() -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "photoArray.count">
+            </PersistentString>
+            <PersistentString
+               value = "photoAlbumCollectionView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.savePin(CLLocationCoordinate2D) -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultsController.fetchedObjects">
+            </PersistentString>
+            <PersistentString
+               value = "coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.(downloadFlickrImages() -&gt; ()).(closure #1).(closure #1):PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.stack.context.fetch(self.frcPhoto.fetchRequest)">
+            </PersistentString>
+            <PersistentString
+               value = "self.frcPhoto.fetchedObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.viewDidLoad() -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frcPhoto.fetchedObjects?.count">
+            </PersistentString>
+            <PersistentString
+               value = "tappedPin?.photos?.count">
+            </PersistentString>
+            <PersistentString
+               value = "photos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.downloadNewPhotos(Any) -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultsController.fetchedObjects">
+            </PersistentString>
+            <PersistentString
+               value = "photos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.collectionView(UICollectionView, didSelectItemAt : IndexPath) -&gt; ():PhotoAlbumViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.(downloadFlickrImages() -&gt; ()).(closure #1):PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultsController.fetchedObjects">
+            </PersistentString>
+            <PersistentString
+               value = "self.photos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.(fetchedResultsController.getter).(closure #1):PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tappedPin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.updateButton() -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedIndexes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.setRegion() -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapView.region">
+            </PersistentString>
+            <PersistentString
+               value = "UserDefaults.standard.value(forKey: MapCenterLatitudeValueKey)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.dropPin() -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tappedPin.photos.count">
+            </PersistentString>
+            <PersistentString
+               value = "frcPhoto.fetchedObjects.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.(viewDidLoad() -&gt; ()).(closure #1).(closure #1):PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tappedPin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.mapView(MKMapView, didSelect : MKAnnotationView) -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tappedPin.objectID">
+            </PersistentString>
+            <PersistentString
+               value = "stack.backgroundContext.fetch(pinFetchRequest)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.managedObjectContextDidSave(notification : Notification) -&gt; ():TravelLocationViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.collectionView(UICollectionView, cellForItemAt : IndexPath) -&gt; UICollectionViewCell:PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "photos">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.downloadFlickrImages() -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "droppedPin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.controller(NSFetchedResultsController&lt;NSFetchRequestResult&gt;, didChange : Any, at : IndexPath?, for : NSFetchedResultsChangeType, newIndexPath : IndexPath?) -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newIndexPath?.row">
+            </PersistentString>
+            <PersistentString
+               value = "photos">
+            </PersistentString>
+            <PersistentString
+               value = " newIndexPath?.item">
+            </PersistentString>
+            <PersistentString
+               value = "frcPhoto.fetchedObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.viewDidLoad() -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultsController.fetchedObjects">
+            </PersistentString>
+            <PersistentString
+               value = "pins.count">
+            </PersistentString>
+            <PersistentString
+               value = "stack.context.count(for: NSFetchRequest(entityName: &quot;Pin&quot;))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.configureCell(PhotoAlbumCell, atIndexPath : IndexPath) -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fetchedResultsController.fetchedObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CoreDataStack.(save() -&gt; ()).(closure #1):CoreDataStack.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.context.hasChanges">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.AddAnnotation(gesture : UIGestureRecognizer) -&gt; ():TravelLocationViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tappedPin.objectID">
+            </PersistentString>
+            <PersistentString
+               value = "droppedPin.objectID">
+            </PersistentString>
+            <PersistentString
+               value = "self.pinPhotos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.downloadFlickrImages() -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tappedPin?.pageNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.controllerWillChangeContent(NSFetchedResultsController&lt;NSFetchRequestResult&gt;) -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultsController.fetchedObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.mapView(MKMapView, regionDidChangeAnimated : Bool) -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapView.region">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.(savePhotos(CLLocationCoordinate2D, [[String : AnyObject]]) -&gt; ()).(closure #1):TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pinPhotos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.(viewDidLoad() -&gt; ()).(closure #1):PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stack.context">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TravelLocationViewController.updateMapView(editMode : Bool) -&gt; ():TravelLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "deletePinsLabel.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "deletePinsLabel.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.(controllerDidChangeContent(NSFetchedResultsController&lt;NSFetchRequestResult&gt;) -&gt; ()).(closure #1):PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.deletedIndexes">
+            </PersistentString>
+            <PersistentString
+               value = "index.item">
+            </PersistentString>
+            <PersistentString
+               value = "cell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.loadFlickrImages() -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Flickr.sharedInstance().imagesPageNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.numberOfSections(in : UICollectionView) -&gt; Int:PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultsController.sections?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.viewDidAppear(Bool) -&gt; ():PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedResultsController.fetchedObjects?.count">
+            </PersistentString>
+            <PersistentString
+               value = "tappedPin?.photos?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoAlbumViewController.collectionView(UICollectionView, numberOfItemsInSection : Int) -&gt; Int:PhotoAlbumViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "downloadedPhotosCount">
+            </PersistentString>
+            <PersistentString
+               value = "photos.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

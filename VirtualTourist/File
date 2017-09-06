@@ -1,0 +1,13 @@
+To Do
+# Save pins to model
+# Save photos to model related to pin
+# Load photos in collection view as soon as they are downloaded
+# When pin is dropped, start downloading photos
+# Show placeholder for each image while images are being downloaded
+# When click on 'New Collection' should download new images, and replace the current
+
+# While downloading photos, 'New Collection' button should be disabled
+# Clicking on the photo should enable the deletion button, and then reload the collection view
+# Read from model, fetch online if model is empty
+
+
